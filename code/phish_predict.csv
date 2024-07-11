@@ -1,0 +1,503 @@
+﻿URL,URL_length,privacy_policy,contact_information,feedback_score,load_time,broken_links,new_tech,time_elapsed,content_similarity,update_size,update_frequency,number_of_changes,certificate_authority,SSL_encrption_strength,self_signed_certificate,digital_signature_validity,san_matches_domain,trusted_seal,certification_bey_validity,certification_not_expired,certification_revocation_status,label
+https://www.google.com/,23,1,1,8,1.2,0,1,50,0.9,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.amazon.com/,24,1,1,11,1.5,1,1,90,0.9,no,2,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.microsoft.com/,28,1,1,7,1.3,0,1,270,0.93,no,1,75,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.phishingwebsite.com/,32,0,0,4,2.1,5,0,5,0.4,yes,3,101,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+https://www.hackingwebsite.com/,31,0,0,3,2,7,0,6,0.35,no,5,127,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+https://www.Yahoo.com/,22,1,1,9,1.6,0,1,70,0.8,no,1,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.Instagram.com/,26,1,1,10,1.2,1,1,120,0.96,no,1,76,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.Twitter.com/,24,1,1,12,1.4,1,1,190,0.94,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.wikipedia.com/,26,1,1,8,1.1,0,1,80,0.84,no,2,93,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.facebook.com/,25,1,1,15,1.6,1,1,100,0.91,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.bing.com/,21,1,1,7,1.3,1,1,250,0.89,no,1,78,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.wikihow.com/,24,1,1,11,1.3,0,1,60,0.9,no,2,87,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.geeksforgeeks.com/,30,1,1,10,1.6,0,1,170,0.9,no,1,97,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.w3schools.com/ ,26,1,1,9,1.2,1,0,230,0.92,no,1,96,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://rewards.xpz.my.id/,26,0,0,4,2.9,5,0,6,0.31,yes,4,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://dr-hoffrichter.de/index2.html,36,0,0,4,3.8,8,0,2,0.2,yes,5,198,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://netflix.phatpham.tech/,29,0,0,3,4.4,6,0,3,0.5,yes,3,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+https://storesteampowered.asia/,31,0,0,4,2.6,9,0,6,0.33,yes,6,105,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www2.rakuten.co.jplogin.jvtttft.cn/,42,0,0,4,5.6,6,0,5,0.12,yes,4,174,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bdzrvg8vq.html,40,0,0,3,2.2,5,0,2,0.45,yes,3,157,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.id-app7.net/identify-,32,0,0,2,2.9,7,0,5,0.35,yes,5,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.drpboxfile.com/boxNeW/hndYh.php,42,0,0,3,3.1,9,0,6,0.51,yes,4,198,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.adiaripapereria.com/wp-content/,42,0,0,3,3,5,0,4,0.43,yes,4,178,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.redirectalink.com/blog/wp-,36,0,0,3,3.4,6,0,3,0.22,yes,5,136,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.imposiblehabbo.blogspot.com/,39,0,0,4,3.8,8,0,4,0.31,yes,9,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://digilander.libero.it/Facelogin96/,40,0,0,2,4.1,5,0,5,0.44,yes,5,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://stsremodeling.com/piz9/index.html,40,0,0,3,4.6,7,0,6,0.48,yes,4,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://wwwmoedasgratis2011.blogspot.com/,41,0,0,4,3,7,0,4,0.37,yes,6,168,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+https://codecanyon.net/,23,1,1,8,1,1,1,46,0.78,no,1,56,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://medium.com/,19,1,1,8,0.9,2,1,34,0.91,no,1,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.marvel.com/,23,1,1,9,1.2,1,1,68,0.8,no,4,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://bdnews24.com/,21,1,1,11,1.7,3,1,254,0.77,no,3,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.icicibank.com/,26,1,1,7,1,2,1,49,0.99,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.olx.ro/,19,1,1,5,0.6,1,1,333,0.6,no,1,12,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://paytm.com/,19,1,1,5,0.9,2,1,46,0.78,no,1,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://genius.com/,19,1,1,9,1,2,1,12,0.92,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://stackoverflow.com/,26,1,1,7,1.5,1,1,79,0.69,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.hdfcbank.com/,25,1,1,10,1.23,1,1,624,0.7,no,1,31,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://hollywoodlife.com/,26,1,1,9,1.76,0,1,56,0.94,no,1,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://steamcommunity.com/,27,1,1,6,1,0,1,798,0.51,no,1,82,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://searchengineland.com/,28,1,1,11,1.4,1,1,914,0.71,no,4,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://cookpad.com/in?via=jp,29,1,1,11,1.98,1,1,55,0.82,no,3,51,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://indianexpress.com/,26,1,1,7,1.25,0,1,66,0.93,no,2,63,no,256-bit,no,valid,yes,yes,no,no,not revoked,0
+https://livestream.com/,23,1,1,7,1.8,1,1,34,0.9,no,1,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://codepen.io/,19,1,1,15,1,0,1,94,0.8,no,1,55,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://lifehacker.com/,24,1,1,8,1,0,1,64,0.8,no,1,65,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://thenextweb.com/,22,1,1,10,0.8,1,1,61,0.9,no,4,23,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.cheezburger.com/,28,1,1,7,0.9,1,1,32,0.94,no,3,35,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://bestblackhatforum.com/,30,1,1,7,2,2,1,78,0.76,no,1,48,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://comicbook.com/,22,1,1,8,2.2,2,1,76,0.7,no,3,76,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://stackexchange.com/,26,1,1,12,1.5,2,1,84,0.85,no,1,14,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://bitbucket.org/,22,1,1,5,0.8,2,1,75,0.95,no,2,75,yes,256-bit,yes,valid,yes,yes,yes,yes,not revoked,0
+https://techcrunch.com/,23,1,1,6,1.6,1,1,91,0.7,no,1,32,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://thenextweb.com/,23,1,1,6,1.67,0,1,76,0.9,no,1,16,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://web.tv/,15,1,1,9,1,0,1,16,0.7,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://fortune.com/,20,1,1,12,1,3,1,79,0.83,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://serverfault.com/,24,1,1,8,1,2,1,77,0.69,no,1,31,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://plarium.com/,20,1,1,8,2.01,1,1,100,0.31,no,1,55,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+canva.com,9,1,1,7,0.39,3,1,68,0.89,no,1,58,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://forms.office.com/Pages/DesignPageV2.aspx,45,1,1,5,1.13,1,1,339,0.9,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://sites.google.com/u/0/new?pli=1&authuser=0,49,1,1,11,1.17,4,1,579,0.79,no,3,82,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://thebankbandb.com.au,27,0,0,5,2.29,6,0,4,0.6,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://cafecitoperez.ivanidzakovic.com/,40,0,0,1,3,6,0,2,0.42,yes,6,189,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://capminvestment.com/,27,0,0,0,2.89,2,0,6,0.5,yes,8,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://my-paypal-verification.com/,35,0,0,2,4,5,0,5,0.2,yes,4,167,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+https://www.heeressport.at/,27,0,0,2,3.37,3,0,3,0.23,yes,7,271,no,128-bit,no,invalid,no,no,no,no,revoked,1
+http://powaywelding.com/cgi-sys/suspendedpage.cgi,45,0,0,6,3,4,0,4,0.34,yes,6,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://yourfreephoneapp.com/,29,0,0,3,4.42,7,0,6,0.5,yes,6,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://qrxhskj.cluster028.hosting.ovh.net,38,0,0,2,2,8,0,5,0.52,yes,5,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://bookedandboarding.com,23,0,0,1.7,2,7,0,6,0.21,yes,4,165,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://orgogenlabs.com,18,0,0,5,2.5,9,0,5,0.42,yes,8,187,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://lantikiradar.com,18,0,0,4,2.45,6,0,5,0.24,yes,7,224,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://gulhasal.com,16,0,0,4,3,9,0,2,0.21,yes,6,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://napavalleynanny.com,19,0,0,1,3.9,7,0,1,0.1,yes,5,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://tansus.co.uk,15,0,0,2.6,4,8,0,3,0.32,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://storage.googleapis.com,29,0,0,3,4,8,0,4,0.24,yes,4,845,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://f37xs.app.link,21,0,0,4,4,7,0,5,0.14,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://wavesetholdings.com,21,0,0,4.4,2.97,7,0,6,0.11,yes,6,247,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://dameidaijia.com,16,0,0,3,2.99,9,0,6,0.51,yes,7,298,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://docs.google.com,21,0,0,2.5,3,6,0,2,0.54,yes,9,132,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://illingcartworthsupplies.com,34,0,0,2.27,3.04,8,0,4,0.52,yes,4,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://wavesetholdings.com,21,0,0,1.78,5,9,0,1,0.32,yes,5,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://detes.sk,11,0,0,2.9,4.4,7,0,3,0.24,yes,7,268,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://kirkwoodbowlfoundation.org,28,0,0,2.6,2,9,0,1,0.42,yes,6,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://saliha.imlkwt.com,22,0,0,3,2,9,0,5,0.33,yes,8,147,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://vixas.atwebpages.com,27,0,0,3,4,9,0,5,0.14,yes,5,195,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://housefullfilms.com,22,0,0,3,4.2,8,0,6,0.43,yes,5,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://hentech.com.hk,19,0,0,4.6,5,7,0,2,0.34,yes,5,258,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://donslan.com,16,0,0,5,3.66,9,0,2,0.25,yes,6,654,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://vicariapastoralgdl.org,27,0,0,4.99,3.7,8,0,1,0.13,yes,7,852,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://greenowladvisers.com,24,0,0,2,3,6,0,4,0.41,yes,4,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://lyonpress.com.br,20,0,0,2,2,7,0,3,0.22,yes,4,222,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://martazancanaro.com,20,0,0,1.98,3,9,0,5,0.25,yes,5,444,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://lagelijundiai.com.br,24,0,0,1.67,3.9,6,0,2,0.26,yes,8,598,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://gooyatoronto.com,18,0,0,1.8,4,7,0,2,0.28,yes,9,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://kaizenpak.com/2/https/,26,1,1,10,1.5,4,1,287,0.9,no,1,54,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://zaborkursk.ru/omo/,23,1,1,9,1.1,1,1,68,0.7,no,2,56,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://betasusorjinals.blogspot.com/,37,1,1,6.9,1.2,2,1,94,0.9,no,1,84,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://telegraf.com.ua,22,1,1,8,1.6,2,1,46,0.94,no,2,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://bdnews24.com,19,1,1,8,1.2,4,1,97,0.89,no,2,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://eevee.tv,16,0,0,4,1.6,0,0,230,0.44,yes,1,13,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://appleid.apple.com-sa.pm,31,0,0,1,0,0,0,12,0.28,yes,3,71,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://grandcup.xyz,20,0,0,0,1.1,0,0,4,0.5,yes,1,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://villa-azzurro.com,25,0,0,1,2,2,0,79,0.28,yes,2,88,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://mygpstrip.net,21,0,0,2,1.4,0,0,6,0.52,yes,1,57,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://sites.google.com,24,0,0,0,0.39,6,0,5,0.5,yes,3,32,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://milpitaslions.com,25,0,0,1,0,8,0,2,0.35,yes,4,88,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastimenangqq101.com,28,0,0,3,1.1,0,0,94,0.51,yes,3,94,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://firebasestorage.googleapis.com,37,1,0,5,2.45,0,0,1,0.44,yes,3,89,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://cheaproomsvalencia.com,30,0,0,5,1.4,2,0,32,0.42,yes,2,198,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://aprenderparaser.com.br,30,0,0,1,1.17,5,0,0,0.91,yes,4,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://kinemind.com,20,0,0,3,0,0,0,914,0.5,yes,3,105,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://han.gl,14,0,0,1,0,0,0,4,0.7,yes,3,198,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://u.to,12,0,0,1,1.6,6,0,1,0.51,yes,7,88,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://faktor.rs,17,0,0,3,0.39,0,0,32,0.32,yes,2,89,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://centromusicalpaternense.es,34,0,0,2,2.45,0,0,2,0.44,yes,1,44,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://verificare.sella.corporateportal.aggiorniituoidati.com,53,0,0,4,1.4,0,0,0,0.28,yes,3,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://appleid.apple.com-sa.pm,29,0,0,1,2,9,0,0,0.35,yes,1,105,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://biced.iainbukittinggi.ac.id,29,0,0,3,1.17,0,0,230,0.5,yes,4,99,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://paxful-service.com,25,0,0,0,1.4,0,0,6,0.42,yes,3,13,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://sportbeclick.com,24,0,0,5,2,2,0,79,0.79,yes,5,32,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://yamionmsuz.com,26,0,0,8,1,0,0,3,0.51,yes,7,63,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://dailyexclusiveoffer.com,28,0,0,3,2.99,0,0,254,0.25,yes,3,71,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://app-sicredi-br.wpdevcloud.com,31,0,0,1,3,0,0,12,0.12,yes,1,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://maticcoupon.com,27,0,0,6,1,8,0,0,0.32,yes,5,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ig-fosa.ch,19,0,0,2,1.4,0,0,5,0.51,yes,1,94,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://enigreen.net,18,0,0,3,0.39,5,0,94,0.28,yes,1,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://bancoestado700.blogspot.com,31,0,0,0,1.6,0,0,1,0.91,yes,3,88,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://webapp186332.ip-172-104-4-187.cloudezapp.io,40,0,0,6,1.1,7,0,16,0.12,yes,4,132,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://digibarre.pt,20,0,0,4,3,9,0,0,0.79,yes,1,63,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://bitscases.gq,20,0,0,0,1.4,0,0,0,0.7,yes,6,136,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://icloud.com.apple-findmyiphone.world,34,0,0,1,2,8,0,46,0.91,yes,3,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ovastor.egnyte.com,32,0,0,2,5,6,0,0,0.5,yes,1,94,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://payuupal.ddns.net,31,0,0,1,1.17,0,0,12,0.12,yes,5,105,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://email302.com,19,0,0,6,3.7,0,0,79,0.52,yes,1,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://playarprint.com,24,0,0,2,1.4,7,0,1,0.51,yes,1,89,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://deref-gmx.net,22,0,0,4,1,2,0,5,0.35,yes,2,57,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://mobileacesso24horas.com,30,0,0,1,2.45,0,0,2,0.32,yes,1,198,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://wwedvm.appspot.com,29,1,0,2,1,9,0,1,0.44,yes,4,13,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://flightstoeurope.us,28,0,0,5,1.4,0,0,4,0.12,yes,3,44,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://theaquaticmall.com,30,0,0,5,2,1,0,230,0.91,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ltaucard.com,20,0,0,1,1.4,4,0,32,0.51,yes,1,178,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://bitnskins.com,24,0,0,2,1,1,0,5,0.25,yes,1,71,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://kersgam.com,17,0,0,2,1.6,8,0,0,0.52,yes,4,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://dropbox.com,18,0,0,2,2.99,2,0,1,0.32,yes,1,88,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://marreme.com,19,0,0,2,1.1,5,0,6,0.91,yes,2,136,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://docs.google.com,21,0,0,5,0.39,3,0,3,0.5,yes,3,79,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://lakeviewinnvermont.com,30,0,0,4,1.17,7,0,1,0.42,yes,1,99,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://coupedeparis.f3m.free.fr,30,0,0,3,2,1,0,16,0.28,yes,2,105,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://zcvalkenburg.nl,29,0,0,1,4,3,0,1,0.34,yes,1,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://mashable.com,19,1,1,6,4.4,7,1,254,0.7,no,1,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://nhs.uk,16,1,1,4,1.4,2,1,2,0.12,no,3,624,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://popupads.ir,18,1,1,1,1,6,1,4,0.52,no,5,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://udn.com,16,1,1,4,0,7,1,5,0.7,no,8,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://distractify.com,19,1,1,10,1.6,5,1,2,0.44,no,6,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://mic.com,15,1,1,3,2,9,1,94,0.28,no,4,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://allegro.pl,17,1,1,1,1.4,2,1,12,0.7,no,7,345,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://babal.net,18,1,1,4,4.2,8,1,914,0.7,no,3,254,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://perezhilton.com,19,1,1,1,2.45,1,1,79,0.51,no,1,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://kenh14.vn,16,1,1,2,2,3,1,2,0.52,no,4,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://orcache.net,20,1,1,2,4.4,8,1,46,0.5,no,5,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://otomoto.pl,20,1,1,4,1.1,6,1,32,0.7,no,3,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://web.de,15,1,1,3,1,2,1,4,0.32,no,1,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://bestblackhatforum.com,25,1,1,1,1.17,1,1,6,0.35,no,9,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://ringring.vn,21,1,1,1,5,5,1,2,0.25,no,3,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://tobogo.net,22,1,1,2,1.4,3,1,2,0.79,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://kenh14.vn,17,1,1,2,2.99,8,1,2,0.7,no,5,179,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://telegraf.com.ua,26,1,1,3,5,2,1,0,0,no,1,105,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://digg.com,19,1,1,2,2,1,1,5,0.76,no,1,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://hubpages.com,21,1,1,2,1.4,0,1,3,0.7,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://himado.in,21,1,1,0,0.39,3,1,61,0.25,no,1,624,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://putlocker.is,18,1,1,1,3.7,6,1,5,0.28,no,4,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://superuser.com,20,1,1,3,1,1,1,2,0.12,no,6,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://privatbank.ua,21,1,1,4,3.7,0,1,2,0.44,no,3,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://techcrunch.com,30,1,1,3,1.1,9,1,2,0.76,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://dantri.com.vn,26,1,1,3,1.4,1,1,16,0.28,no,2,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://censor.net.ua,29,1,1,3,2.45,1,1,32,0.52,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://caixa.gov.br,24,1,1,4,1.17,7,1,12,0.12,no,5,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://jalopnik.com,27,1,1,1,1.4,5,1,254,0.51,no,1,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://maybank2u.com.my,31,1,1,4,5,4,1,16,0.42,no,4,254,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://tinnhanh360.net,30,1,1,1,4.2,0,1,79,0.12,no,2,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://aljazeera.net,28,1,1,6,1,1,1,94,0.5,no,8,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://fazenda.gov.br,30,1,1,5,4.4,6,1,61,0.76,no,3,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://kotaku.com,28,1,1,2,0,8,1,2,0.52,no,5,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://auto.ru,13,1,1,4,2,1,1,6,0.35,no,1,345,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://ap.org,12,1,1,4,3,2,1,4,0.79,no,4,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://emgn.com,14,1,1,2,4,1,1,230,0.32,no,3,756,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://teespring.com,17,1,1,2,1.1,9,1,61,0.44,no,6,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://grantland.com,18,1,1,2,4.2,2,1,32,0.79,no,8,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://torcache.net,19,1,1,2,3.7,5,1,46,0.51,no,2,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://nypost.com,20,1,1,4,1.17,2,1,1,0.5,no,1,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://esporte.uol.com.br,25,1,1,8,4.2,1,1,6,0.44,no,4,132,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://auto.ru,15,1,1,4,2.45,6,1,2,0.25,no,5,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://buzzfil.net,17,1,1,3,1,1,1,12,0.52,no,5,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://9gag.tv,18,1,1,3,2.99,1,1,79,0.76,no,3,105,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://udn.com,18,1,1,4,4.4,0,1,254,0.28,no,1,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://thechive.com,20,1,1,4,2,5,1,3,0.42,no,9,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://getpocket.com,21,1,1,1,1,0,1,1,0.79,no,2,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://correios.com.br,24,1,1,4,1.6,1,1,3,0.44,no,4,179,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://medium.com,25,1,1,2,2.45,2,1,4,0.32,no,2,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://thenextweb.com,24,1,1,6,2.99,5,1,16,0.76,no,4,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://smallseotools.com,27,1,1,2,1.1,8,1,2,0.79,no,3,132,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/Lsa/v/E/WO/6hbqiR/63WkY1sE0Z/P/P/5,78,1,1,7,1.6,0,1,50,0.9,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/LAQ/v/E/6zE/6hbqor/vbihJ7PH33/P/P/5,78,1,1,6,1.2,1,1,90,0.9,no,2,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/ZLR/v/E/6cq/6hbqo7/6z4sxZ8q5J/P/P/5,78,1,1,9,1.4,0,1,270,0.93,no,1,75,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/ZM7/v/E/6mZ/6hbqoR/vQZU8CbzqU/P/P/5,78,1,1,10,1.1,0,1,70,0.8,no,1,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/Z4U/v/E/sjS/6hbqoT/6SJLorOwcn/P/P/5,78,1,1,12,1.6,1,1,120,0.96,no,1,76,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/ZE3/v/E/6FV/6hbqow/65L20Fkjrc/P/P/5,78,1,1,8,1.3,1,1,190,0.94,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/L4C/v/E/6UI/6hbqoY/zHVYkDUBSN/P/P/5,78,1,1,15,1.3,0,1,80,0.84,no,2,93,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/FCP/v/E/UN/6hbqi8/znIVWEnZZt/P/P/5,78,1,1,7,1.6,1,1,100,0.91,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/L7o/v/E/M3/6hbqiO/6IDdSzbYdS/P/P/5,78,1,1,11,1.2,1,1,250,0.89,no,1,78,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/ZqZ/v/E/69y/6hbqo2/UQXTPz3tQ/P/P/5,78,1,1,10,1,0,1,60,0.9,no,2,87,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/Lg7/v/E/m0/6hbqoz/sq0XOnnGAM/P/P/5,78,1,1,9,0.9,0,1,170,0.9,no,1,97,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://paypalp.ontraport.com/c/s/IE8/ZIu/v/E/sU5/6hbqoT/UjDJcPBgac/P/P/5,78,1,1,8,1.2,1,1,230,0.92,no,1,96,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://marketing.contentmessage.com/email/unsubscribe/5d4aef51ae3dc355752153,70,1,1,8,1.7,1,1,46,0.78,no,1,56,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://1drv.ms/b/s!AphEpKQ-sUkEjGp3rgpCe6CzDmcH?e=7SVsBO,55,1,1,9,1,2,1,34,0.91,no,1,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://dbs.rewardgateway.co.uk,32,1,1,11,0.6,1,1,68,0.8,no,4,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://amazon.co.jp.lcmgo.com/,28,1,1,7,0.9,3,1,254,0.77,no,3,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://gogov.ru/services/reg-rf-temp,34,1,1,5,1,2,1,49,0.99,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://stpetersquare.net/Amazon/,30,1,1,5,1.5,1,1,333,0.6,no,1,12,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.zonsa.biz/wp-includes/_message/?a=settings,49,1,1,9,1.23,2,1,46,0.78,no,1,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://proxyx.ru:443/,22,1,1,7,1.76,2,1,12,0.92,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://proxyx.ru,16,1,1,10,1,1,1,79,0.69,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://directonline-confirmation1.com/default/sAuth/,48,1,1,9,1.4,1,1,624,0.7,no,1,31,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://miketoddington.com/blukinfos/,34,1,1,6,1.98,0,1,56,0.94,no,1,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://w2-bb-acesso-online.cloud-fr1.unispace.io/t4/html-index.php,59,1,1,11,1.25,0,1,798,0.51,no,1,82,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://ksv.upol.cz/aaaaa/thumbs/ok/index.php,42,1,1,11,1.8,1,1,914,0.71,no,4,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://particulares.santander.totta-santan.info/login.php,55,1,1,7,1,1,1,55,0.82,no,3,51,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://perfeitosparahoje2020.com/mobile/login.php?enc=1,49,1,1,7,1,0,1,66,0.93,no,2,63,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://attys.yolasite.com/,29,1,1,15,0.8,1,1,34,0.9,no,1,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://attys.yolasite.com/,30,1,1,8,0.9,0,1,94,0.8,no,1,55,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://mysp.ac/4Zes9?idtrack=JtACMalo,37,1,1,10,2,0,1,64,0.8,no,1,65,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.melhoresofertashoje.com/mobile/login.php?enc=1,54,1,1,7,2.2,1,1,61,0.9,no,4,23,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.amazon.co.jp.zoan.shop/,30,1,1,7,1.5,1,1,32,0.94,no,3,35,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.maio-em-promocoes.com/2020/mobile/login.php?enc=1,55,1,1,8,0.8,2,1,78,0.76,no,1,48,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://rakuten.co.jp.cghgkm.ph/registfwd.php,37,1,1,12,1.6,2,1,76,0.7,no,3,76,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://betasusgirdi.blogspot.com,30,1,1,5,1.67,2,1,84,0.85,no,1,14,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://betasusgirdi.blogspot.com/,31,1,1,6,1,2,1,75,0.95,no,2,75,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://arevszzs.000webhostapp.com/login.htm,46,1,1,6,1,1,1,91,0.7,no,1,32,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://aresozcs.000webhostapp.com/login.htm,46,1,1,9,1,0,1,76,0.9,no,1,16,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://the100prosystems.com/wp-admin/css/colors/sunrise/Update/signin,64,1,1,12,2.01,0,1,16,0.7,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://162.213.251.24/0IEfdfdfdfddfd99VA,42,1,1,8,0.39,3,1,79,0.83,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://resolvemyaccount-paypal.casacam.net/?secure,47,1,1,8,1.13,2,1,77,0.69,no,1,31,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://ca.surveygizmo.com/s3/50075309/AT-T-Login/,46,1,1,7,1.17,1,1,100,0.31,no,1,55,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://firmadigitalcrgo.com/bancos/,36,1,1,5,4.4,3,1,68,0.89,no,1,58,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://firmadigitalcrgo.com/banco-nacional/,42,1,1,11,1.4,1,1,339,0.9,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://firmadigitalcrgo.com/,30,1,1,10,1,4,1,579,0.79,no,3,82,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://metrological-focus.000webhostapp.com/chase.Bank/chase.Bank/sign-on/secure/,78,1,1,10,0,4,1,287,0.9,no,1,54,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://logincurenthlypass.weebly.com/,39,1,1,9,1.6,1,1,68,0.7,no,2,56,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://bcpzonasegurabeta.viabcpe.xyz/iniciar-sesion,47,1,1,9.5,2,2,1,94,0.9,no,1,84,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.myatharweiiect.com/CR/?xfsr=true,44,1,1,11,1.4,2,1,46,0.94,no,2,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://daidopresente.com,19,1,1,14,4.2,4,1,97,0.89,no,2,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://depart-recovery-society.my.id/1/depart.html,46,1,1,7,2.45,2,1,254,0.7,no,1,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://bcpzonasegurabeta.viabcp.com.luckybonu.com/iniciar-sesion/,62,1,1,4,2,1,1,2,0.12,no,3,624,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://three.billing-confirm.com,34,1,1,5,4.4,6,1,4,0.52,no,5,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://wkantakne.000webhostapp.com/,36,1,1,5.9,1.1,1,1,5,0.7,no,8,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://fgase.000webhostapp.com/,34,1,1,6,1,1,1,2,0.44,no,6,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://oooue.000webhostapp.com/,34,1,1,6.89,1.17,0,1,94,0.28,no,4,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://livecalgary.com/smbc.co.jp/jp/jp/smbc.co.jp/,47,1,1,12.9,5,5,1,12,0.7,no,7,345,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://betasuslinkgir.blogspot.com,30,1,1,6,1.4,0,1,914,0.7,no,3,254,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://betasuslinkgir.blogspot.com/,31,1,1,7,2.99,1,1,79,0.51,no,1,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://rakuten.co.jp5.memberonlineprimesuscodec.xyz/k/x/d,52,1,1,9,5,2,1,2,0.52,no,4,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://jprecycling.biz/wp/wp-content/plugins/tvwihht/wealth/?e5_Stun34=privacidad@probiomed.com.mx,92,1,1,9,2,5,1,46,0.5,no,5,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://genome-biotechnologies.com/chase/2/chase/zzti2zwe=/index.php,66,1,1,9,1.4,8,1,32,0.7,no,3,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://cya.nz/4FnO,18,1,1,5,0.39,0,1,4,0.32,no,1,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://kostyabozovyoutube.000webhostapp.com/,45,1,1,5,3.7,1,1,6,0.35,no,9,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://vkstickerc.000webhostapp.com/,39,1,1,8,1,0,1,2,0.25,no,3,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://autorization-golos.000webhostapp.com/,47,1,1,8,3.7,0,1,2,0.79,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://qvkw.000webhostapp.com/,29,1,1,9,1.1,1,1,2,0.7,no,5,179,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://vk-polis.000webhostapp.com/,30,1,1,11,1.4,1,1,0,0,no,1,105,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://vccomfreestiker.000webhostapp.com/,41,1,1,7,2.45,0,1,5,0.76,no,1,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://cameragirl.dev.timelabs.ru/test/tmp/,48,1,1,5,1.17,1,1,3,0.7,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://maclim.com.br/teamSErvice/customer_center/customer_Case=IDPP00C817/indexx.php,73,1,1,5,1.4,1,1,61,0.25,no,1,624,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://raifreisenonline.com/eBankingWeb/login.html,49,1,1,9,5,0,1,5,0.28,no,4,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://afandoublu.gr/sys/update/Security-Account/access,51,1,1,7,4.2,0,1,2,0.12,no,6,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://tmjdiscountbooks.com/Assistenza/e4d84a7f62c978c/fatturazione/,72,1,1,10,1,1,1,2,0.44,no,3,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://tmjdiscountbooks.com/Assistenza/,38,1,1,9,4.4,1,1,2,0.76,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://jesamondo.com/mail667/Autoupgrade//index.php,61,1,1,6,0,2,1,16,0.28,no,2,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://storage.googleapis.com/ayahoo-gregarinaria-845052432/index.html,64,1,1,11,2,1,1,32,0.52,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://theprofessionalinstitutes.org,37,1,1,11,3,3,1,12,0.12,no,5,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://theprofessionalinstitutes.org/,38,1,1,7,4,2,1,254,0.51,no,1,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://artdecorstudio.ro/#cm1hbGlub3dza2lAcmVtdGNzLXNlY3VyZS5jb20=,72,1,1,7,1.1,1,1,16,0.42,no,4,254,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://wilstv.com/https:/www.paypal.com/signin,43,1,1,15,4.2,2,1,79,0.12,no,2,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://m5wx.com/news/wp-content/plugins/fyaoutu/yo/WellsFargo/WellsFargo/wells/,72,1,1,8,3.7,2,1,94,0.5,no,8,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://m5wx.com/news/wp-content/plugins/fyaoutu/yo/WellsFargo/WellsFargo/wells,71,1,1,10,1.17,1,1,61,0.76,no,3,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://vl2-ru.1gb.ru,23,1,1,7,4.2,1,1,2,0.52,no,5,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://m5wx.com/news/wp-content/plugins/fyaoutu/yo/wells/,59,1,1,7,2.45,0,1,6,0.35,no,1,345,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://m5wx.com/news/wp-content/plugins/fyaoutu/yo/wells,58,1,1,8,1,0,1,4,0.79,no,4,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://bankloginonline.com/chase-comverifycard,43,1,1,12,2.99,1,1,230,0.32,no,3,756,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.etraval.com/.well-known/acme-challenge/update/chaseonline/login.htm,71,1,1,5,4.4,1,1,61,0.44,no,6,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://vkauth.kl.com.ua,25,1,1,6,2,0,1,32,0.79,no,8,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://175.107.206.134/wp-content/plugins/rbcbank19/rbcgi3m01.php?rbaccess&amp;,74,1,1,6,1,1,1,46,0.51,no,2,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://verifica.n26.sicurezza-deltuoconto.com/conto-corrente/impostazioni/sicurezza/verifica/identita,89,1,1,9,1.6,0,1,1,0.5,no,1,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://y-r.top/de/,20,1,1,12,2.45,0,1,6,0.44,no,4,132,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://y-r.top/de,19,1,1,8,2.99,1,1,2,0.25,no,5,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://irapi.ir/att/at.html,29,1,1,8,1.1,1,1,12,0.52,no,5,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://fox.portland365.org/rahmonking89/update/index.php,54,1,1,7,1.6,2,1,79,0.76,no,3,105,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://livraisonspeed1998.cloudaccess.host/wp-content/DHMF0JCT17E1/,67,1,1,5,1.2,2,1,254,0.28,no,1,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://gloriagitaroff.com.ar/2019mdqz47/Adobepdf/index.html,63,1,1,11,1.4,2,1,3,0.42,no,9,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://saleschampion.co.uk/wp-content/themes/infinity-pro/4/login.php?cmd=login_submit,83,1,1,8,1.1,2,1,1,0.79,no,2,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://thelogodept.com/wp-admin/includes/acess2/wells/,59,1,1,8,1.6,1,1,3,0.44,no,4,179,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://splash-laundromatlv.com/wp-admin/includes/access/west/wells/,64,1,1,9,1.3,0,1,4,0.32,no,2,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://yorkshire.es/c,23,1,1,11,1.3,0,1,16,0.76,no,4,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://yorkshire.es/c/,24,1,1,7,1.6,3,1,2,0.79,no,3,132,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://dotpay.i-dpd.pl/platnosc,36,1,1,5,1.2,2,1,50,0.9,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.saadhagaparavaigal.com/proimage/contractdoc/Cdoc/invoice.php,71,1,1,5,1,1,1,90,0.9,no,2,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://elettricistapavia.it/hit/mail.ru/,48,1,1,9,0.9,3,1,270,0.93,no,1,75,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://elettricistapavia.it/hit/mail.ru,47,1,1,7,1.2,1,1,70,0.8,no,1,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.sastaservices.com/dd/d0789dcc6ff141d9902b7f2d1ca62347/,68,1,1,10,1.7,4,1,120,0.96,no,1,76,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.sastaservices.com/dd/d0789dcc6ff141d9902b7f2d1ca62347,67,1,1,9,1,4,1,190,0.94,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://wheresuccessbegins.buzz/doc/onedrive/,44,1,1,6,0.6,1,1,80,0.84,no,2,93,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://wheresuccessbegins.buzz/doc/onedrive,43,1,1,11,0.9,2,1,100,0.91,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://go-tune.net/doc/Onedrives/Onedrive1,38,1,1,11,1,2,1,250,0.89,no,1,78,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://www.maristepostbac.sn/main.html,35,1,1,7,1.5,4,1,60,0.9,no,2,87,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://simptaxt-err.tk/0utlook/index.php?login=nobody@mycraftmail.com,65,1,1,7,1.23,7,1,170,0.9,no,1,97,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://wredtrcy.gb.net/dri/DOC6663345/,38,1,1,15,1.76,2,1,230,0.92,no,1,96,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://wredtrcy.gb.net/dri/DOC6663345,37,1,1,8,1,6,1,46,0.78,no,1,56,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://shootmehayoor.com/wp-admin/network/psotale/postale.activation/,62,1,1,10,1.4,7,1,34,0.91,no,1,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://shootmehayoor.com/a1,30,1,1,7,1.98,5,1,68,0.8,no,4,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.splash-laundromatlv.com/wp-admin/includes/access/west/wells/wells.htm,72,1,1,7,1.25,9,1,254,0.77,no,3,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.splash-laundromatlv.com/wp-admin/includes/access/west/wells/index.html,77,1,1,8,1.8,2,1,49,0.99,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://miembros.womenclubforbetterhealth.com/wp-admin/css/product/net/flix/account/,86,1,1,12,1,8,1,333,0.6,no,1,12,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://miembros.womenclubforbetterhealth.com/wp-admin/css/product/net/flix/account,77,1,1,5,1,1,1,46,0.78,no,1,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://amvbner.com/mazon/87e5c/,33,1,1,6,0.8,3,1,12,0.92,no,1,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://kasturlari.com/board/,28,1,1,6,0.9,8,1,79,0.69,no,1,66,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://ahorainc.org/s2bin/onpers/tree/x1x/v2/c56b406470a3575/login.php,70,1,1,9,2,6,1,624,0.7,no,1,31,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.splash-laundromatlv.com/wp-admin/includes/access/west/WellsFargo/WellsFargo/wells,85,1,1,12,2.2,2,1,56,0.94,no,1,46,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.splash-laundromatlv.com/wp-admin/includes/access/west/WellsFargo/WellsFargo/wells/,86,1,1,8,1.5,1,1,254,0.51,no,1,82,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://www.expressshippers.net/nowmail/,36,1,1,8,0.8,5,1,2,0.71,no,4,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://zelle.updates-securitys.com/banks/wellsfargo/,49,1,1,7,1.6,3,1,4,0.82,no,1,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://ldireproprintingllc.for-more.biz/BDX/BDX/BDX/,51,1,1,5,1.67,8,1,5,0.93,no,3,624,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://fireglennboyce.info/NSG/OneSway/office.php,48,1,1,11,1,2,1,2,0.9,no,5,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://ripe6.net/paypal-update/-/,32,1,1,8,1,1,1,94,0.8,no,8,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://lakinshore.buzz/indus/FBG,30,1,1,8,1,0,1,12,0.8,no,6,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://lakinshore.buzz/indus/FBG/,31,1,1,9,2.01,3,1,914,0.9,no,4,94,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://registrodebitosperu1.com/BNWeb/lnicio/,44,1,1,11,0.39,6,1,79,0.94,no,7,345,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://63.250.33.127/smsinsert.php,31,1,1,7,1.13,1,1,2,0.76,no,3,254,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://onlineprocedure.web5838.vweb01.webgamespace.de/klanten/qsl_inloggen.do,76,1,1,5,1.17,0,1,46,0.7,no,1,13,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://onlineprocedure.web5838.vweb01.webgamespace.de/,54,1,1,5,2,9,1,32,0.85,no,4,198,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://cm1.info/desjardinsin.php,32,1,1,9,2.2,1,1,4,0.95,no,5,57,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://istanbulasiklari.com/vendor/Home/new-veiw/,47,1,1,7,1.5,1,1,6,0.7,no,3,44,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://uwiomawio.com/001,22,1,1,10,0.8,7,1,2,0.9,no,1,89,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://ict.rongovarsity.ac.ke/login.php,40,1,1,9,1.6,5,1,2,0.7,no,9,88,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://khurramandcosolicitors.com/fonts/usa/Service%20PPL,56,1,1,6,1.67,4,1,2,0.83,no,3,178,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://c1781279.ferozo.com/LOGIN/postale/id/47260/index2.html,65,1,1,11,1,0,1,0,0.69,no,1,79,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://c1781279.ferozo.com/LOGIN/postale/id/47260/,59,1,1,11,1,1,1,5,0.31,no,5,179,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://chemstrymatch.000webhostapp.com/online/cm/login.html,63,1,1,7,1,6,1,3,0.89,no,1,105,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://zelle.updates-securitys.com/banks/boa/,45,1,1,7,2.01,8,1,61,0.9,no,1,71,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://zelle.updates-securitys.com/banks/boa,44,1,1,15,0.39,1,1,5,0.79,no,2,99,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://adobe.cloud.file2.shirnesa.ir/adobeEn/view.php?email=[Email],60,1,1,8,1.13,2,1,2,0.9,no,1,624,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+https://adobe.cloud.file2.shirnesa.ir/adobeEn/error.php,54,1,1,10,1.17,1,1,2,0.7,no,4,136,yes,256-bit,no,valid,yes,yes,no,yes,not revoked,0
+http://flashblocks.io,21,0,0,4,1.6,6,0,4,0.6,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/b9uu5ergv.html,40,0,0,1,0,6,0,2,0.42,yes,6,189,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://image.dashofer.hu/information.html.html,46,0,0,0,1.1,2,0,6,0.5,yes,8,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bgfhjdbl0.html,40,0,0,1,2,5,0,5,0.2,yes,4,167,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bc1jvqoxz.html,40,0,0,2,1.4,3,0,3,0.23,yes,7,271,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bbrk9qsgj.html,40,0,0,0,0.39,4,0,4,0.34,yes,6,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.lluisgratacos.es/wp-content/gpdf/,45,0,0,1,0,7,0,6,0.5,yes,6,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://myvilla.com.ua/images/aol/index.htm,42,0,0,3,1.1,8,0,5,0.52,yes,5,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.political-voice.co.uk/script.php,44,0,0,3,2.45,7,0,6,0.21,yes,4,165,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/baaseeyi1.html,40,0,0,2,1.4,9,0,5,0.42,yes,8,187,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ok.ssgo.asia/login/en/login.html,38,0,0,1,1.17,6,0,5,0.24,yes,7,224,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.docmate.org/eroi/fox/dropbox/,41,0,0,3,0,9,0,2,0.21,yes,6,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://manual.shoppa.com/wp-content/eba1y/,44,0,0,1,0,7,0,1,0.1,yes,5,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/awcolsnvm.html,41,0,0,1,1.6,8,0,3,0.32,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://cactus.ge/wp-admin/user/wellsfargo.com/,46,0,0,3,0.39,8,0,4,0.24,yes,4,845,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bcl71tvp7.html,41,0,0,2,2.45,7,0,5,0.14,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bg3gxzxmn.html,41,0,0,4,1.4,7,0,6,0.11,yes,6,247,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bek4vqxq0.html,41,0,0,1,2,9,0,6,0.51,yes,7,298,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://fun-dive.com/gps/?check=1i60305580.html,46,0,0,3,1.17,6,0,2,0.54,yes,9,132,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bdhbn0n9q.html,40,0,0,0,1.4,8,0,4,0.52,yes,4,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bgj99b6tb.html,39,0,0,5,2,9,0,1,0.32,yes,5,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://en.ppok.asia/login/en/login.html,39,0,0,8,1,7,0,3,0.24,yes,7,268,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/b470bwevj.html,40,0,0,3,2.99,9,0,1,0.42,yes,6,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bbhiu9c4a.html,40,0,0,1,3,9,0,5,0.33,yes,8,147,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://remax.com.bar-le-chatelier.com/login/,44,0,0,6,1,9,0,5,0.14,yes,5,195,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://rs.aagp.asia/m=weblogin/index.htm,40,0,0,2,1.4,8,0,6,0.43,yes,5,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.bijouterie-artisanale.fr/.m.https/,45,0,0,3,0.39,7,0,2,0.34,yes,5,258,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.dcifglobal.com/media/system/8.htm,44,0,0,0,1.6,9,0,2,0.25,yes,6,654,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bg37q4upp.html,40,0,0,6,1.1,8,0,1,0.13,yes,7,852,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://en.zzok.asia/login/en/login.html,39,0,0,4,3,6,0,4,0.41,yes,4,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://esmokeing.blogspot.com/2012/01/7y.html,45,0,0,0,1.4,7,0,3,0.22,yes,4,222,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://anupamnavsari.com/Remax/Secure Login.html,48,0,0,1,2,9,0,5,0.25,yes,5,444,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.bintangadjinegara.com/wp-content/june23/,51,0,0,2,5,6,0,2,0.26,yes,8,598,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.clinicadasempresas.com/images/xox/olola/,51,0,0,1,1.17,7,0,2,0.28,yes,9,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bfn6k81u8.html,40,0,0,1,3.7,6,0,4,0.6,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bew1fbald.html,40,0,0,2,1.4,6,0,2,0.42,yes,6,189,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bebvxsrpq.html,40,0,0,4,1,2,0,6,0.5,yes,8,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://segmentweb.googlepages.com/aboutmail,43,0,0,1,2.45,5,0,5,0.2,yes,4,167,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/c16kvvj0z.html,40,0,0,2,1,3,0,3,0.23,yes,7,271,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://habbo-igual.blogspot.com/#login-habblet,46,0,0,5,1.4,4,0,4,0.34,yes,6,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bhbvppcen.html,40,0,0,5,2,7,0,6,0.5,yes,6,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bhz7yad5t.html,40,0,0,1,1.4,8,0,5,0.52,yes,5,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://livechatwithgirls.blogspot.com/,38,0,0,2,1,7,0,6,0.21,yes,4,165,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.monsterfest.dk/info-updatee/home/,44,0,0,2,1.6,9,0,5,0.42,yes,8,187,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pokerface.ucoz.co.uk/question.html,41,0,0,2,2.99,6,0,5,0.24,yes,7,224,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.naylorantiques.com/htwtSL-GeZ-klr.--valhCPT,54,0,0,2,1.1,9,0,2,0.21,yes,6,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://dateport.com/chat/fonts/res/a0l/login.htm,48,0,0,5,0.39,7,0,1,0.1,yes,5,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bg0g0dv36.html,40,0,0,4,1.17,8,0,3,0.32,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pltt21-db51rn3jh1.bilimelektrik.com/cartasi/,51,0,0,3,2,8,0,4,0.24,yes,4,845,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.casinoelcaribe.com/net/management/,45,0,0,1,4,7,0,5,0.14,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://linjinming.hk03.world-dns.com/login.asp,46,0,0,4,1.6,7,0,6,0.11,yes,6,247,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.newsdeshbangla.com/files/uploads/,44,0,0,1,0,9,0,6,0.51,yes,7,298,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://blog.nabatakoutdoors.com/weq/go.php,42,0,0,0,1.1,6,0,2,0.54,yes,9,132,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.gracia.vn.ua/wp-includes/doc/,40,0,0,1,2,8,0,4,0.52,yes,4,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bbl23lz1q.html,40,0,0,2,1.4,9,0,1,0.32,yes,5,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.nzbinvest.rs/templates/ja_purity/remax/,50,0,0,0,0.39,7,0,3,0.24,yes,7,268,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://idealiafarm.com/wp-includes/js/pnc/pnc/,46,0,0,1,0,9,0,1,0.42,yes,6,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/be824aznt.html,40,0,0,3,1.1,9,0,5,0.33,yes,8,147,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.gstszx.cn/data/redirect.html,39,0,0,3,2.45,9,0,5,0.14,yes,5,195,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/beka31uom.html,40,0,0,2,1.4,8,0,6,0.43,yes,5,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.rfshielding.org/dpdppccbbxxdropb/,44,0,0,1,1.17,7,0,2,0.34,yes,5,258,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://bestlovingjerseys.com/batatura/,38,0,0,3,0,9,0,2,0.25,yes,6,654,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://rs.llweb.asia/m=weblogin/index.htm,41,0,0,1,0,8,0,1,0.13,yes,7,852,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.findoutsingles.blogspot.com/,39,0,0,1,1.6,6,0,4,0.41,yes,4,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://rs-rapidshare.galeon.com/premium.htm,43,0,0,3,0.39,7,0,3,0.22,yes,4,222,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://fb.com.accounts.login.userid.470136.fbsbk.com/,53,0,0,2,2.45,9,0,5,0.25,yes,5,444,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.nelsonmarinel.com/yeye/done.php,42,0,0,4,1.4,6,0,2,0.26,yes,8,598,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.restaurantejoaodebarro.com.br/SCRIPT/DOC/,52,0,0,1,2,7,0,2,0.28,yes,9,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ib-ebenezer.cl/index.html/nfim.html,42,0,0,3,1.17,6,0,4,0.6,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/beeg60pvq.html,40,0,0,0,1.4,6,0,2,0.42,yes,6,189,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.allprodad.com/ll0ys/f1re/primary.php,47,0,0,5,2,2,0,6,0.5,yes,8,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://digilander.libero.it/jaceboot/,37,0,0,8,1,5,0,5,0.2,yes,4,167,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://paccx.w.interia.pl/?subtopic=signup,42,0,0,3,2.99,3,0,3,0.23,yes,7,271,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://wow.eeus.asia/login/en/index.htm,39,0,0,1,3,4,0,4,0.34,yes,6,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://locations-chalet-pyrenees.fr/paypal/login.php,52,0,0,6,1,7,0,6,0.5,yes,6,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://springhillonline.com/images2/www.cpanel.net/,51,0,0,2,1.4,8,0,5,0.52,yes,5,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.ratuetnik.com/wp-content/images/db/box/,50,0,0,3,0.39,7,0,6,0.21,yes,4,165,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bi5qln2e3.html,40,0,0,0,1.6,9,0,5,0.42,yes,8,187,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ok.vvweb.asia/login/en/login.html,40,0,0,6,1.1,6,0,5,0.24,yes,7,224,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.subo.asia/cache/box/dropbox/,39,0,0,4,3,9,0,2,0.21,yes,6,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://us.battle.net.ok.ddweb.asia/login/en/index.htm,53,0,0,0,1.4,7,0,1,0.1,yes,5,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bfwct4svl.html,40,0,0,1,2,8,0,3,0.32,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bfra7nvzi.html,40,0,0,2,5,8,0,4,0.24,yes,4,845,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.yomusic.cn/wp-includes/pomo/ita.htm,46,0,0,1,1.17,7,0,5,0.14,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.ksp.com.my/DrOpb/dropbox/dpbx/,41,0,0,1,3.7,7,0,6,0.11,yes,6,247,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bnsaxmlq6.html,40,0,0,2,1.4,9,0,6,0.51,yes,7,298,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bfo0txouf.html,40,0,0,4,1,6,0,2,0.54,yes,9,132,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://freeshadigift.com/mun3/index.html,40,0,0,1,2.45,8,0,4,0.52,yes,4,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/ba84avisb.html,40,0,0,2,1,9,0,1,0.32,yes,5,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.manutencaodeblindagem.com.br/db/dbj/,47,0,0,5,1.4,7,0,3,0.24,yes,7,268,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/b5bh6y9zn.html,40,0,0,5,2,9,0,1,0.42,yes,6,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://dukmak.cl/images/a/AoL/aollogin.psp.htm,46,0,0,1,1.4,9,0,5,0.33,yes,8,147,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://directorking.home.comcast.net/,37,0,0,2,1,9,0,5,0.14,yes,5,195,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://update-your-info.pariztravel.com/paypal/cmd/,51,0,0,2,1.6,8,0,6,0.43,yes,5,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.gurmsan.org/bbs/icon/sds/Login.php,45,0,0,2,2.99,7,0,2,0.34,yes,5,258,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.exellce-me.co.za/free/us.match.com-login.php,55,0,0,2,1.1,9,0,2,0.25,yes,6,654,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bfux33u54.html,40,0,0,5,0.39,8,0,1,0.13,yes,7,852,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://propertmartltd.com/paypa/update/security/profile/,56,0,0,4,1.17,6,0,4,0.41,yes,4,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://prestomwill.cl/Housing/Secure%20Login.html,49,0,0,3,2,7,0,3,0.22,yes,4,222,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.myanmaramericanvision.com/gdocs/index1.html,54,0,0,1,4,9,0,5,0.25,yes,5,444,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.ppc-advertising.com/dropbox/,39,0,0,4,1.6,6,0,2,0.26,yes,8,598,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/botfcsz9s.html,40,0,0,1,0,7,0,2,0.28,yes,9,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.admnyagan.ru/user_12738917389218931.php,50,0,0,0,1.1,6,0,4,0.6,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.naylorantiques.com/mail/GPC16FGT/,44,0,0,1,2,6,0,2,0.42,yes,6,189,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.farma-chim10.ro/plugins/pentagon/,44,0,0,2,1.4,2,0,6,0.5,yes,8,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://autopolki.pl/templates/atomic/,37,0,0,0,0.39,5,0,5,0.2,yes,4,167,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.funyfa.rozblog.com/page/yahoo,40,0,0,1,0,3,0,3,0.23,no,7,271,no,128-bit,no,invalid,no,no,no,no,revoked,1
+http://www.kolarzowski.pl/sklep/wp-content/languages/,53,0,0,3,1.1,4,0,4,0.34,yes,6,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.hetnieuwstetestament.com/col/bd/,43,0,0,3,2.45,7,0,6,0.5,yes,6,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.gateway5.com/images/online.php,41,0,0,2,1.4,8,0,5,0.52,yes,5,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.sfonebd.com/wp-content/header/paypal.com,51,0,0,1,1.17,7,0,6,0.21,yes,4,165,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://skvs.stedu.net/images/index.htm,38,0,0,3,0,9,0,5,0.42,yes,8,187,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://www.dresanala.com/lag/drpbxx/drpbxx/,43,0,0,1,0,6,0,5,0.24,yes,7,224,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://quiereshabbocreditos.mejorforo.net/,42,0,0,1,1.6,9,0,2,0.21,yes,6,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://fb.com.accounts.login.userid.386219.fbsbk.com/,53,0,0,3,0.39,7,0,1,0.1,yes,5,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/b5vk7vgnk.html,40,0,0,2,2.45,8,0,3,0.32,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://202.150.216.211/~admin/popbox/www/,41,0,0,4,1.4,8,0,4,0.24,yes,4,845,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://gbipengayoman.com/html/dto.php,37,0,0,1,2,7,0,5,0.14,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://martin.bertolino.home.comcast.net/,41,0,0,3,1.17,7,0,6,0.11,yes,6,247,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/b9xb7e236.html,40,0,0,0,1.4,9,0,6,0.51,yes,7,298,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://droppboxx.janetecosta.com.br/db/box/,43,0,0,5,2,6,0,2,0.54,yes,9,132,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://cdhshop.org/0701310237/241250503/,40,0,0,8,1,8,0,4,0.52,yes,4,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/bg4osibk0.html,40,0,0,3,2.99,9,0,1,0.32,yes,5,179,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://alielacompany.eu/wp-includes/Text/,41,0,0,1,3,7,0,3,0.24,yes,7,268,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://pastehtml.com/view/be4i12m95.html,40,0,0,6,1,9,0,1,0.42,yes,6,156,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://apple.map-iphone.com,27,0,0,2,1.4,9,0,5,0.33,yes,8,147,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ecathleticpark.com,25,0,0,3,0.39,9,0,5,0.14,yes,5,195,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://aldusaccountants.com,27,0,0,0,1.6,8,0,6,0.43,yes,5,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://hsbc.personal-gb.org,27,0,0,6,1.1,7,0,2,0.34,yes,5,258,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://faceboolk.totalh.net,27,0,0,4,3,9,0,2,0.25,yes,6,654,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://kutengokmass.ml,22,0,0,0,1.4,8,0,1,0.13,yes,7,852,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://4wheelinfo.com,21,0,0,1,2,6,0,4,0.41,yes,4,357,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://powerkeepers.net,23,0,0,2,5,7,0,3,0.22,yes,4,222,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://servicvk.beget.tech,26,0,0,1,1.17,9,0,5,0.25,yes,5,444,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ahmedalkhalifah.sa,25,0,0,1,3.7,6,0,2,0.26,yes,8,598,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://tersereah-kamu.rumahweb.org,34,0,0,2,1.4,7,0,2,0.28,yes,9,756,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://arxmedicinadotrabalho.com.br,35,0,0,4,1,6,0,4,0.6,yes,5,345,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://hhtluyahll.com/New%20directory/yahoo/,44,0,0,1,2.45,6,0,2,0.42,yes,6,189,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://fb.com.accounts.login.userid.238296.fbsbk.com/,53,0,0,2,1,2,0,6,0.5,yes,8,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://rajhomes.co.za,21,0,0,5,1.4,5,0,5,0.2,yes,4,167,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://livinguz.info,20,0,0,5,2,3,0,3,0.23,yes,7,271,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://ourhansenfamily.com,26,0,0,1,1.4,4,0,4,0.34,yes,6,164,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://mejsocialcare.co.uk,26,0,0,2,1,7,0,6,0.5,yes,6,111,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://halkbank-kgf.com,23,0,0,2,1.6,8,0,5,0.52,yes,5,254,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://wzrqm.saqibsiddiqui.com,30,0,0,2,2.99,7,0,6,0.21,yes,4,165,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://rbc-1royalbank.com,25,0,0,2,1.1,9,0,5,0.42,yes,8,187,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://checkpointsteep.000webhostapp.com,40,0,0,5,0.39,6,0,5,0.24,yes,7,224,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://tytanworks.com,21,0,0,4,1.17,9,0,2,0.21,yes,6,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://castlemedicolegal.com,28,0,0,3,2,7,0,1,0.1,yes,5,624,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://chrissalamone.com,24,0,0,1,4,8,0,3,0.32,yes,4,135,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
+http://vivastreetaccount.eu,27,0,0,2,2.3,8,0,4,0.24,yes,4,845,no,128-bit,yes,invalid,no,no,yes,no,revoked,1
