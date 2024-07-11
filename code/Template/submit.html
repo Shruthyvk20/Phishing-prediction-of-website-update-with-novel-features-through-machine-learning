@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Phishing Detector</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+        padding: 20px;
+      }
+css
+Copy code
+  h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 0;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .result {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .result h2 {
+    color: #333;
+    margin-top: 0;
+    font-size: 24px;
+  }
+  
+  .result p {
+    color: #666;
+    font-size: 18px;
+  }
+  
+  .result .legitimate {
+    color: #1d8a24;
+  }
+  
+  .result .phishing {
+    color: #ff5500;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  a {
+    color: #337ab7;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #286090;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .result {
+      padding: 10px;
+    }
+  }
+</style>
+  </head>
+  <body>
+    <h1>Phishing Detector</h1>
+    {% if prediction_text %}
+    <div class="result">
+      {% if prediction_text == 'Legitimate' %}
+      <img src="https://i.imgur.com/cdRUw5a.png" alt="Legitimate URL">
+      <h2 class="legitimate">{{ prediction_text }}</h2>
+      <p>This URL is safe to visit. You can trust it.</p>
+      {% else %}
+      <img src="https://i.imgur.com/LLRcZKv.png" alt="Phishing URL">
+      <h2 class="phishing">{{ prediction_text }}</h2>
+      <p>This URL is a phishing attempt. Do not visit it.</p>
+      {% endif %}
+    </div>
+    {% endif %}
+    <p><a href="{{ url_for('formpg') }}">Check another URL</a></p>
+    <p><a href="{{ url_for('home') }}">Back to Home</a></p>
+  </body

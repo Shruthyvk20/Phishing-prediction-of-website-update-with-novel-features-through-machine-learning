@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Phishing Detector</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+      }
+
+  h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 10px;
+    color: #666;
+  }
+  
+  a {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    transition: background-color 0.3s ease;
+  }
+  
+  a:hover {
+    background-color: #286090;
+    border-color: #204d74;
+  }
+</style>
+  </head>
+  <body>
+    <h1>Phishing Detector</h1>
+    <p>Welcome to the Phishing Detector!</p>
+    <p>Use the form below to check if a URL is legitimate or a phishing attempt.</p>
+    <p><a href="{{ url_for('formpg') }}">Check a URL</a></p>
+  </body>
+</html>
